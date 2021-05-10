@@ -1,0 +1,5 @@
+﻿  Converter.cpp
+  Project.cpp
+C:\Users\D\Desktop\Project\Project\Project.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Project.vcxproj -> C:\Users\D\Desktop\Project\Debug\Project.exe
